@@ -1,3 +1,5 @@
 # Description
 
-- a temporary repository to learn git 
+- a temporary repository to learn: 
+    - git 
+    - python 
