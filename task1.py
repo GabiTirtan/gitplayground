@@ -1,3 +1,4 @@
-foo = "Hallo Horea. Ce mai faci?"
+text = input("> ")
 f = open('out.txt', 'w')
-f.write(foo)
+f.write(text)
+f.close()
